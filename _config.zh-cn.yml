@@ -37,10 +37,10 @@ search:
 # Navigation bar toc settings
 toc: false
 
-# # Share plugin settings.
-# share:
-#   type: sharethis
-#   install_url: //platform-api.sharethis.com/js/sharethis.js#property=5ab6f60ace89f00013641890&product=inline-share-buttons
+# Share plugin settings.
+share:
+  type: sharethis
+  install_url: //platform-api.sharethis.com/js/sharethis.js#property=5dce0efff57a4e0019f9df26&product=custom-share-buttons&cms=sop
 
 # Comment plugin settings.
 comment:
